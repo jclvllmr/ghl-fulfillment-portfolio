@@ -40,4 +40,10 @@ The objective of this project is to simulate how a digital agency would deliver 
 
 ---
 
-*This is a fictional portfolio project for educational and demonstration purposes.*
+*This is a fictional portfolio project for educational and demonstration purposes.*---
+
+## Current Phase
+
+GitHub setup and portfolio documentation.
+
+
